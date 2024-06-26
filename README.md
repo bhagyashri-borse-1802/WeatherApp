@@ -16,8 +16,10 @@ Welcome to the Weather App⛅! This application provides current weather informa
 
 ## Screenshots
 
-<img src="public/images/image2.png" alt="Alt Text" width="400" height="200"/>
-![Screenshot 2](public/images/image2.png)
+<p float="left">
+  <img src="public/images/image1.png" alt="ScreenShot1" width="400" />
+  <img src="public/images/image2.png" alt="ScreenShot2" width="400" />
+</p>
 
 ## Installation
 
