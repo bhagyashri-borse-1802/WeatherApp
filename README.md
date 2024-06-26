@@ -16,7 +16,7 @@ Welcome to the Weather App⛅! This application provides current weather informa
 
 ## Screenshots
 
-<img src="relative/path/to/image.png" alt="Alt Text" width="400" height="200"/>
+<img src="public/images/image2.png" alt="Alt Text" width="400" height="200"/>
 ![Screenshot 2](public/images/image2.png)
 
 ## Installation
