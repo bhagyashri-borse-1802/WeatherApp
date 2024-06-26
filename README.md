@@ -4,7 +4,7 @@ Welcome to the Weather App⛅! This application provides current weather informa
 
 ## Features
 
-- **Current Weather**: Display current weather conditions including temperature, humidity, wind speed.
+- **Current Weather**: Display current weather conditions including temperature, humidity, pressure and wind speed.
 - **Location Search**: Allow users to search for weather information by location.
 - **Responsive Design**: Ensures a great user experience across different devices.
 
@@ -33,7 +33,7 @@ To run the Weather App locally:
 ## Usage
 
 - Enter a city name to get current weather information.
-- Explore the information about temperature, humidity and wind speed.
+- Explore the information about temperature, humidity, pressure and wind speed.
 - Enjoy using the Weather App!
   
 See Live App ->
