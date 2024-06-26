@@ -16,8 +16,8 @@ Welcome to the Weather App⛅! This application provides current weather informa
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](public/images/image1.png)
+![Screenshot 2](public/images/image2.png)
 
 ## Installation
 
@@ -25,7 +25,7 @@ To run the Weather App locally:
 
 1. Clone this repository: `git clone https:/bhagyashri-borse-1802/github.com//weather-app.git`
 2. Navigate to the project directory.
-3. Open `index.html` in your web browser.
+3. Run `nodemon solution.js` in your terminal.
 
 ## Usage
 
